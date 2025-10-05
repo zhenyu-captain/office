@@ -7,6 +7,7 @@ download sourcetreeapp, https://www.sourcetreeapp.com/
 download vs2022, https://visualstudio.microsoft.com/zh-hans/vs/
 
 ## Clash
+* https://clash-verge.org/zh-CN/download
 * https://www.wgstart.com/help/docs117e.html
 * des
 * U2FsdGVkX18r/+6OORzlJUGnrpJE3+umFQNp7OrjqEVRk10IwZWBMslqZR/ZTJMMiXca1uIAR0FrIgIAnnZO4e37cw5WeqSzmNpxqhNrMdPxh0lOQ//XytO9t7yTnpcxsBhVOqmJMd6g82+cRorung==
